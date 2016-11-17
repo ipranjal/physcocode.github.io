@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://physcocode.github.io
+title: PP's scribble 
+email: pranjaltech10@gmail.com
+author: Pranjal Pandey
+description: My ideas and technological jots
+paginate: 5
+google_analytics: 
